@@ -1,7 +1,7 @@
 
 <div align="center">
 
-#Wayfair AI Automation Externship
+# Wayfair AI Automation Externship
 
 ### 5 AI Automation Workflows Built with n8n
 
